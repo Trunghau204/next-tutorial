@@ -6,7 +6,7 @@ export default function ProductDetailLayout({
   return (
     <>
       {children}
-      <h2>Featured products 3</h2>
+      <h2>Featured products</h2>
     </>
   );
 }
